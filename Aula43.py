@@ -3,7 +3,7 @@
 import time
 import random
 
-Print("Olá ")
+print("Olá ")
 
 #VARIAVEIS PARA CONTROLAR O TEMPO GASTO EM CADA RESPOSTA
 
